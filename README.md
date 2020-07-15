@@ -1,5 +1,7 @@
 # CMSIS-Atmel
 
+* 14/7/2020: Added SAMR34 support. 
+
 * 10/10/2017: Added SAMD51 support. Downloaded Atmel.SAMD51_DFP.1.0.70.atpack file from http://packs.download.atmel.com/.
 * Note that in sam.h, the SAMD51 definitions are not included in the SAMD or SAMD_SERIES defines
 
